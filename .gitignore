@@ -46,7 +46,7 @@ data/
 datasets/
 
 # Results and outputs
-results/
+#results/
 outputs/
 logs/
 *.log
