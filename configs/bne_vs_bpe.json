@@ -1,0 +1,74 @@
+{
+  "bpe_1k": {
+    "class": "huggingface",
+    "path": "source_data/tokenizers/BPE/1k/tokenizer.json"
+  },
+  "bne_1k": {
+    "class": "huggingface",
+    "path": "source_data/tokenizers/BNE/1k/tokenizer.json"
+  },
+  "bpe_2k": {
+    "class": "huggingface",
+    "path": "source_data/tokenizers/BPE/2k/tokenizer.json"
+  },
+  "bne_2k": {
+    "class": "huggingface",
+    "path": "source_data/tokenizers/BNE/2k/tokenizer.json"
+  },
+  "bpe_4k": {
+    "class": "huggingface",
+    "path": "source_data/tokenizers/BPE/4k/tokenizer.json"
+  },
+  "bne_4k": {
+    "class": "huggingface",
+    "path": "source_data/tokenizers/BNE/4k/tokenizer.json"
+  },
+  "bpe_8k": {
+    "class": "huggingface",
+    "path": "source_data/tokenizers/BPE/8k/tokenizer.json"
+  },
+  "bne_8k": {
+    "class": "huggingface",
+    "path": "source_data/tokenizers/BNE/8k/tokenizer.json"
+  },
+  "bpe_16k": {
+    "class": "huggingface",
+    "path": "source_data/tokenizers/BPE/16k/tokenizer.json"
+  },
+  "bne_16k": {
+    "class": "huggingface",
+    "path": "source_data/tokenizers/BNE/16k/tokenizer.json"
+  },
+  "bpe_32k": {
+    "class": "huggingface",
+    "path": "source_data/tokenizers/BPE/32k/tokenizer.json"
+  },
+  "bne_32k": {
+    "class": "huggingface",
+    "path": "source_data/tokenizers/BNE/32k/tokenizer.json"
+  },
+  "bpe_64k": {
+    "class": "huggingface",
+    "path": "source_data/tokenizers/BPE/64k/tokenizer.json"
+  },
+  "bne_64k": {
+    "class": "huggingface",
+    "path": "source_data/tokenizers/BNE/64k/tokenizer.json"
+  },
+  "bpe_128k": {
+    "class": "huggingface",
+    "path": "source_data/tokenizers/BPE/128k/tokenizer.json"
+  },
+  "bne_128k": {
+    "class": "huggingface",
+    "path": "source_data/tokenizers/BNE/128k/tokenizer.json"
+  },
+  "bpe_256k": {
+    "class": "huggingface",
+    "path": "source_data/tokenizers/BPE/256k/tokenizer.json"
+  },
+  "bne_256k": {
+    "class": "huggingface",
+    "path": "source_data/tokenizers/BNE/256k/tokenizer.json"
+  }
+}
