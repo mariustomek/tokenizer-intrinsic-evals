@@ -1,0 +1,14 @@
+{
+  "languages": {
+    "eng_Latn": {
+      "name": "English",
+      "iso_code": "en",
+      "data_path": "source_data/language/nano_set.json"
+    }
+  },
+  "analysis_groups": {
+    "resource_level": {
+      "high": ["eng_Latn"]
+    }
+  }
+}
